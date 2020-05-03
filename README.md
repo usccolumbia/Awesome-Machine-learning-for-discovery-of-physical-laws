@@ -19,12 +19,20 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 - AI for global health. [Talk](https://aiinglobalhealth.org/)
 - Blending physics with artificial intelligence. [](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11396/113960B/Blending-physics-with-artificial-intelligence/10.1117/12.2565099.short?SSO=1)
 - [Advancing Fusion with Machine Learning workshop report](https://science.osti.gov/-/media/fes/pdf/workshop-reports/FES_ASCR_Machine_Learning_Report.pdf?hash=27C6DA2A9A92F884DC618FCB928A89F4C39BD764&la=en) identified several areas that ML can help fusion physics.
+- Machine Learning Reveals Quantum Phases of Matter 
+- AI helps unlock 'dark matter' of bizarre superconductors
+- Can AI help crack the code of fusion power? [theverge](https://www.theverge.com/2019/1/29/18201220/nuclear-fusion-energy-artificial-intelligence-machine-learning-tae-google)
+- [AI could be the perfect tool for exploring the Universe](https://www.theverge.com/2017/11/15/16654352/ai-astronomy-space-exploration-data)
 
 ## Exemplary research works
 
 - "Distilling free-form natural laws from experimental data." Science 324, no. 5923 (2009): 81-85. [Link](https://science.sciencemag.org/content/324/5923/81?casa_token=Cbi15b-au3cAAAAA:bZryjDfd1k-r3SoZaW2xRhzhY7qRkaY8SXnauk93tQkEYDtDcDNTLXHbiwQ0rc_acbAx_8nU9HGFID8) and [Citations](https://scholar.google.com/scholar?hl=en&as_sdt=5,41&sciodt=0,41&cites=11583184257062107912&scipsc=&q=&scisbd=1) by Schmidt, Michael, and Hod Lipson. 
 - "AI Feynman: A physics-inspired method for symbolic regression." [link](https://advances.sciencemag.org/content/6/16/eaay2631.abstract) Science Advances 6, no. 16 (2020): eaay2631. Udrescu, Silviu-Marian, and Max Tegmark. 
 - Predicting disruptive instabilities in controlled fusion plasmas through deep learning. Nature 2020. [link](https://www.nature.com/articles/s41586-019-1116-4)
+- K. T. Schütt, M. Gastegger, A. Tkatchenko, K.-R. Müller, R. J. Maurer. Unifying machine learning and quantum chemistry with a deep neural network for molecular wavefunctions. Nature Communications, 2019; 10 (1) DOI: 10.1038/s41467-019-12875-2
+
+# Applications
+-Finding Strong Gravitational Lenses in the Kilo Degree Survey with Convolutional Neural Networks. [arxiv](https://arxiv.org/abs/1702.07675)
 
 ## Survey/Review papers
 
@@ -41,34 +49,47 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 - The large learning rate phase of deep learning: the catapult mechanism. [`arxiv`](https://arxiv.org/abs/2003.02218)
 
 
-# Symbolic regression for equation search/discovery
+## Symbolic regression for equation search/discovery
 
-# Causal relationship learning/discovery
+## Causal relationship learning/discovery
+- Causal Discovery with Attention-Based Convolutional Neural Networks” by Meike Nauta * , Doina Bucur and Christin Seifert 
+- https://aip.scitation.org/doi/full/10.1063/1.5025050
+- https://academic.oup.com/bioinformatics/article/32/6/875/1744279
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103812		
 
-# ODE derivation, equation inference
+## ODE derivation, equation inference
 
-# Bayesian networks
+## Bayesian networks
 
-# Interpretable AI/ML, including Inpretable  deep neural networks
+## Interpretable AI/ML, including Inpretable  deep neural networks
 
-# Topological analysis
+## Topological analysis
 
-# feature/representation learning (DL, ISOMAP, ICA,ALAE)
+## feature/representation learning (DL, ISOMAP, ICA,ALAE)
+- GLAD: Learning Sparse Graph Recovery
 
-# Uncertainty quantification
+## Uncertainty quantification
+- Physics-Guided Machine Learning for Scientific Discovery: An Application in Simulating Lake Temperature Profiles. [link](https://arxiv.org/abs/2001.11086)
 
-# Graph neural networks, graph deep learning  
+## Graph neural networks, graph deep learning  
 
-# Reinforcement learning for
+## Reinforcement learning for active learning and experiment planning/design
 
-# ML/DL for design of experiments, active learning to do minimum no. of experiments/sampling
+## ML/DL for design of experiments, active learning to do minimum no. of experiments/sampling
 
-# Disentangling of features by deep learning
+## Disentangling of features by deep learning
 
-# Multi-scale issues
+## Multi-scale issues
 
-# Dimension reduction and visualization
+## Dimension reduction and visualization
 
+## Active learning for experiments design
+
+## Extrapolation capability and model robustness
+- building a model and try to break it to make it robust
+
+## Deep learning resources'
+- [github Awesome deep learning resources](https://github.com/endymecy/awesome-deeplearning-resources)
 
 ## AutoML
 
@@ -103,7 +124,6 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 - 'Control Augmentation with Machine Learning'. Three broad areas of plasma control research would benefit significantly from machine learning: control-level models, real-time data analysis algorithms; optimisation of plasma discharge trajectories for control scenarios. Using AI to improve control mathematics could manage the uncertainty in calculations and ensure better operational performance.
 - 'Extreme Data Algorithms' involves finding methods to manage the amount and speed of data that will be generated during the fusion models.
 - 'Data-Enhanced Prediction' will help monitor the health of the plant system and predict any faults, such as disruptions which are essential to be mitigated.
-
 - 'Fusion Data Machine Learning Platform' is a system that can manage, format, curate and enable the access to experimental and simulation data from fusion models for optimal usability when used by machine learning algorithms.
 
 
