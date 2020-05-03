@@ -130,7 +130,7 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 
 
 ## Conferences and Workshops related
-- UCLA IPAM Machine Learning for Physics and the Physics of Learning [Link](http://www.ipam.ucla.edu/programs/long-programs/machine-learning-for-physics-and-the-physics-of-learning/)
+- UCLA IPAM Machine Learning for Physics and the Physics of Learning [Link](http://www.ipam.ucla.edu/programs/long-programs/machine-learning-for-physics-and-the-physics-of-learning/) [talks](http://www.ipam.ucla.edu/programs/long-programs/machine-learning-for-physics-and-the-physics-of-learning/?tab=seminar-series)
 - UCLA IPAM Machine Learning for Physics and the Physics of Learning Tutorials [link](http://www.ipam.ucla.edu/programs/workshops/machine-learning-for-physics-and-the-physics-of-learning-tutorials/?tab=schedule)
 - Workshop II: PDE and Inverse Problem Methods in Machine Learning [IPAM link](http://www.ipam.ucla.edu/programs/workshops/workshop-ii-pde-and-inverse-problem-methods-in-machine-learning/)
 - Workshop IV: Using Physical Insights for Machine Learning [link](http://www.ipam.ucla.edu/programs/workshops/workshop-iv-using-physical-insights-for-machine-learning/)
