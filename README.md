@@ -25,15 +25,45 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 - The Geometry of Sign Gradient Descent. [`arxiv`](https://arxiv.org/abs/2002.08056)
 - The large learning rate phase of deep learning: the catapult mechanism. [`arxiv`](https://arxiv.org/abs/2003.02218)
 
+
+# Symbolic regression for equation search/discovery
+
+# Causal relationship learning/discovery
+
+# ODE derivation, equation inference
+
+# Bayesian networks
+
+# Interpretable AI/ML, including Inpretable  deep neural networks
+
+# Topological analysis
+
+# feature/representation learning (DL, ISOMAP, ICA,ALAE)
+
+# Uncertainty quantification
+
+# Graph neural networks, graph deep learning  
+
+# Reinforcement learning for
+
+# ML/DL for design of experiments, active learning to do minimum no. of experiments/sampling
+
+# Disentangling of features by deep learning
+
+# Multi-scale issues
+
+# Dimension reduction and visualization
+
+
 ## AutoML
 
 - When NAS Meets Robustness: In Search of Robust Architectures against Adversarial Attacks. [`arxiv`](https://arxiv.org/abs/1911.10695) [`code`](https://github.com/gmh14/RobNets)
 - Gryffin: An algorithm for Bayesian optimization for categorical variables informed by physical intuition with applications to chemistry. [`arxiv`](https://arxiv.org/abs/2003.12127)
 - Uncertainty Quantification for Bayesian Optimization. [`pdf`](https://arxiv.org/pdf/2002.01569.pdf)
 
-## GAN
+## Dimension reduction
 
-- BachGAN: High-Resolution Image Synthesis from Salient Object Layout. [`arxiv`](https://arxiv.org/abs/2003.11690) [`code`](https://github.com/Cold-Winter/BachGAN)
+- An Idea From Physics Helps AI See in Higher Dimensions [Blog](https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109/)
 - Unbalanced GANs: Pre-training the Generator of Generative Adversarial Network using Variational Autoencoder. [`pdf`](https://arxiv.org/pdf/2002.02112.pdf)
 
 ## GNN
