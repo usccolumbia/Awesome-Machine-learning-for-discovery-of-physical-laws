@@ -4,7 +4,7 @@ A curated list of awesome resources on using machine learning and data science f
 For a list people in ML4PhysicLaw listed with their academic genealogy, please visit [here](https://github.com/usccolumbia/Awesome-Machine-learning-for-discovery-of-physical-laws/blob/master/people.md)
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/usccolumbia/Awesome-Machine-learning-for-discovery-of-physical-laws/pulls) or email (hujianju@gmail.com) to add links.
+Please feel free to send me [pull requests](https://github.com/usccolumbia/Awesome-Machine-learning-for-discovery-of-physical-laws/pulls) or email Jianjun Hu at University of South Caroliina(hujianju@gmail.com) to add links.
 
 <img src="https://aiinglobalhealthorg.files.wordpress.com/2019/02/ai-graphic-image.jpg" width="500px">
 
