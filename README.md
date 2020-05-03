@@ -17,6 +17,8 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 - Scientists think we’ll finally solve nuclear fusion thanks to cutting-edge AI. [link](https://thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/)
 - Containing the sun using Deep-learning AI. [Harvard link](https://news.harvard.edu/gazette/story/2019/04/harvard-princeton-scientists-make-ai-breakthrough-for-fusion-energy/)
 - AI for global health. [Talk](https://aiinglobalhealth.org/)
+- Blending physics with artificial intelligence. [](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11396/113960B/Blending-physics-with-artificial-intelligence/10.1117/12.2565099.short?SSO=1)
+- [Advancing Fusion with Machine Learning workshop report](https://science.osti.gov/-/media/fes/pdf/workshop-reports/FES_ASCR_Machine_Learning_Report.pdf?hash=27C6DA2A9A92F884DC618FCB928A89F4C39BD764&la=en) identified several areas that ML can help fusion physics.
 
 ## Exemplary research works
 
@@ -27,6 +29,9 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 ## Survey/Review papers
 
 - "Integrating physics-based modeling with machine learning: A survey." [PDF](https://arxiv.org/pdf/2003.04919) 2020 by Willard, Jared, Xiaowei Jia, Shaoming Xu, Michael Steinbach, and Vipin Kumar
+- Achuta Kadambi "Blending physics with artificial intelligence", Proc. SPIE 11396, Computational Imaging V, 113960B (24 April 2020); https://doi.org/10.1117/12.2565099
+
+
 - 
 - Fast Differentiable Sorting and Ranking. [`arxiv`](https://arxiv.org/abs/2002.08871)
 - Gradient Boosting Neural Networks: GrowNet. [`arxiv`](https://arxiv.org/abs/2002.07971)
@@ -89,6 +94,19 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 - A Comprehensive Overview and Survey of Recent Advances in Meta-Learning. [`arxiv`](https://arxiv.org/abs/2004.11149)
 - Meta-Learning in Neural Networks: A Survey. [`arxiv`](https://arxiv.org/pdf/2004.05439.pdf)
 - Regularizing Meta-Learning via Gradient Dropout. [`arxiv`](https://arxiv.org/abs/2004.05859)
+
+## Research opportunities of ML for physics
+
+- 'Science Discovery with Machine Learning' involves bridging gaps in theoretical understanding via identification of missing effects using large datasets; the acceleration of hypothesis generation and testing and the optimisation of experimental planning. Essentially, machine learning is used to support and accelerate the scientific process itself.
+- 'Machine Learning Boosted Diagnostics' is where machine learning methods are used to maximise the information extracted from measurements, systematically fuse multiple data sources and infer quantities that are not directly measured. Classifcation techniques, such as supervised learning, could be used on data that is extracted from the diagnostic measurements. 
+- 'Model Extraction and Reduction' includes the construction of models of fusion systems and the acceleration of computational algorithms. Effective model reduction can result in shorten computation times and mean that simulations (for the tokamak fusion reactor for example) happen faster than real-time execution.
+- 'Control Augmentation with Machine Learning'. Three broad areas of plasma control research would benefit significantly from machine learning: control-level models, real-time data analysis algorithms; optimisation of plasma discharge trajectories for control scenarios. Using AI to improve control mathematics could manage the uncertainty in calculations and ensure better operational performance.
+- 'Extreme Data Algorithms' involves finding methods to manage the amount and speed of data that will be generated during the fusion models.
+- 'Data-Enhanced Prediction' will help monitor the health of the plant system and predict any faults, such as disruptions which are essential to be mitigated.
+
+- 'Fusion Data Machine Learning Platform' is a system that can manage, format, curate and enable the access to experimental and simulation data from fusion models for optimal usability when used by machine learning algorithms.
+
+
 
 ## Resources for students
 
