@@ -3,8 +3,10 @@ A curated list of awesome resources on using machine learning and data science f
 
 For a list people in ML4PhysicsLaw, please visit [here](https://github.com/usccolumbia/Awesome-Machine-learning-for-discovery-of-physical-laws/blob/master/people.md)
 
+Edited by [Machine Learning and Evolution Laboratory at University of South Carolina](http://mleg.cse.sc.edu)
+
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/usccolumbia/Awesome-Machine-learning-for-discovery-of-physical-laws/pulls) or email Dr. Jianjun Hu at University of South Caroliina(hujianju@gmail.com) to add links.
+Please feel free to send me [pull requests](https://github.com/usccolumbia/Awesome-Machine-learning-for-discovery-of-physical-laws/pulls) or email Dr. Jianjun Hu at University of South Carolina(hujianju@gmail.com) to add links.
 
 <hr>
 <img src="ai-ml-dl.jpg" width="1000px">
