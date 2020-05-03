@@ -24,6 +24,7 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 - AI helps unlock 'dark matter' of bizarre superconductors
 - Can AI help crack the code of fusion power? [theverge](https://www.theverge.com/2019/1/29/18201220/nuclear-fusion-energy-artificial-intelligence-machine-learning-tae-google)
 - [AI could be the perfect tool for exploring the Universe](https://www.theverge.com/2017/11/15/16654352/ai-astronomy-space-exploration-data)
+- [Tackling Climate Change with Machine Learning ICLR2020 workshop papers](https://www.climatechange.ai/ICLR2020_workshop.html)
 
 ## Exemplary research works
 
