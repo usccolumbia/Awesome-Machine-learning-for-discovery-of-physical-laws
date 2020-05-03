@@ -32,7 +32,7 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 - K. T. Schütt, M. Gastegger, A. Tkatchenko, K.-R. Müller, R. J. Maurer. Unifying machine learning and quantum chemistry with a deep neural network for molecular wavefunctions. Nature Communications, 2019; 10 (1) DOI: 10.1038/s41467-019-12875-2
 
 # Applications
--Finding Strong Gravitational Lenses in the Kilo Degree Survey with Convolutional Neural Networks. [arxiv](https://arxiv.org/abs/1702.07675)
+- Finding Strong Gravitational Lenses in the Kilo Degree Survey with Convolutional Neural Networks. [arxiv](https://arxiv.org/abs/1702.07675)
 
 ## Survey/Review papers
 
