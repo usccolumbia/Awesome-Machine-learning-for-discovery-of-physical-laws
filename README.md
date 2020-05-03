@@ -41,6 +41,9 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 
 # Applications
 - Finding Strong Gravitational Lenses in the Kilo Degree Survey with Convolutional Neural Networks. [arxiv](https://arxiv.org/abs/1702.07675)
+- Physics-Guided Machine Learning for Scientific Discovery: An Application in Simulating Lake Temperature Profiles
+
+
 
 ## Survey/Review papers
 
