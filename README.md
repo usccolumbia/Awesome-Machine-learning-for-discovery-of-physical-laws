@@ -1,4 +1,4 @@
-# Awesome-Machine-learning-for-discovery-of-physical-laws (ML4PhysicLAW)
+## Awesome-Machine-learning-for-discovery-of-physical-laws (ML4PhysicLAW)
 A curated list of awesome resources on using machine learning and data science for discovery of physical laws,inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 
