@@ -222,4 +222,7 @@ License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+## Acknowledgement
+This awesome list is made possible by the NSF HDR Grant. Award #1940099 Collaborative Research: Integrating Physics and Generative Machine Learning Models for Inverse Materials Design. and the NSF HDR PI workshop April28-30, 2020.
+
 
