@@ -25,6 +25,10 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 - Can AI help crack the code of fusion power? [theverge](https://www.theverge.com/2019/1/29/18201220/nuclear-fusion-energy-artificial-intelligence-machine-learning-tae-google)
 - [AI could be the perfect tool for exploring the Universe](https://www.theverge.com/2017/11/15/16654352/ai-astronomy-space-exploration-data)
 - [Tackling Climate Change with Machine Learning ICLR2020 workshop papers](https://www.climatechange.ai/ICLR2020_workshop.html)
+- [A machine-learning revolution for physics and materials science...](https://physicsworld.com/a/a-machine-learning-revolution/)
+- [Machine learning meets quantum physics](https://physicstoday.scitation.org/doi/10.1063/PT.3.4164)
+- [Machine learning versus physics-based modeling](https://www.kdnuggets.com/2019/05/physics-machine-learning-models.html)
+
 
 ## Exemplary research works
 
@@ -40,8 +44,8 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 
 - "Integrating physics-based modeling with machine learning: A survey." [PDF](https://arxiv.org/pdf/2003.04919) 2020 by Willard, Jared, Xiaowei Jia, Shaoming Xu, Michael Steinbach, and Vipin Kumar
 - Achuta Kadambi "Blending physics with artificial intelligence", Proc. SPIE 11396, Computational Imaging V, 113960B (24 April 2020); https://doi.org/10.1117/12.2565099
-
-
+- Machine learning and the physical sciences [arxiv](https://arxiv.org/abs/1903.10563)
+- The power of machine learning. Nature physics. [link](https://www.nature.com/articles/s41567-019-0737-8)
 - 
 - Fast Differentiable Sorting and Ranking. [`arxiv`](https://arxiv.org/abs/2002.08871)
 - Gradient Boosting Neural Networks: GrowNet. [`arxiv`](https://arxiv.org/abs/2002.07971)
