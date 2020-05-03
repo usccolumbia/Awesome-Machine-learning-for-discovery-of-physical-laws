@@ -92,6 +92,9 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 ## Dimension reduction and visualization
 
 ## Active learning for experiments design
+ active learning, sequential decision making, experimental design, reinforcement learning, interactive learning or generative learning
+ - Workshop I: From Passive to Active: Generative and Reinforcement Learning with Physics [link](http://www.ipam.ucla.edu/programs/workshops/workshop-i-from-passive-to-active-generative-and-reinforcement-learning-with-physics/)  [talks](http://www.ipam.ucla.edu/programs/workshops/workshop-i-from-passive-to-active-generative-and-reinforcement-learning-with-physics/?tab=schedule)
+ 
 
 ## Extrapolation capability and model robustness
 - building a model and try to break it to make it robust
