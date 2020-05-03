@@ -1,20 +1,30 @@
 ## Awesome-Machine-learning-for-discovery-of-physical-laws (ML4PhysicLAW)
 A curated list of awesome resources on using machine learning and data science for discovery of physical laws,inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
-
 For a list people in ML4PhysicLaw listed with their academic genealogy, please visit [here](https://github.com/usccolumbia/Awesome-Machine-learning-for-discovery-of-physical-laws/blob/master/people.md)
 
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/usccolumbia/Awesome-Machine-learning-for-discovery-of-physical-laws/pulls) or email (hujianju@gmail.com) to add links.
 
+<img src="https://aiinglobalhealthorg.files.wordpress.com/2019/02/ai-graphic-image.jpg" width="500px">
+
 ## Table of Contents
 
-# Must read list to get inspired
+## Must read list to get inspired
+- Nuclear Fusion and Artificial Intelligence: the Dream of Limitless Energy from [AI daily](https://aidaily.co.uk/articles/nuclear-fusion-and-artificial-intelligence-the-dream-of-limitless-energy)
+- Is Fusion Really Close To Reality? Yes, Thanks To Machine Learning. [Forbes](https://www.forbes.com/sites/jeffmcmahon/2020/04/27/is-fusion-really-closer-to-reality-yes-thanks-to-machine-learning/#613f2150652b)
+- Artificial Intelligence Accelerates Development of Limitless Fusion Energy. [article](https://scitechdaily.com/artificial-intelligence-accelerates-development-of-limitless-fusion-energy/)
+- Scientists think we’ll finally solve nuclear fusion thanks to cutting-edge AI. [link](https://thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/)
+- Containing the sun using Deep-learning AI. [Harvard link](https://news.harvard.edu/gazette/story/2019/04/harvard-princeton-scientists-make-ai-breakthrough-for-fusion-energy/)
+- AI for global health. [Talk](https://aiinglobalhealth.org/)
+
+## Exemplary research works
 
 - "Distilling free-form natural laws from experimental data." Science 324, no. 5923 (2009): 81-85. [Link](https://science.sciencemag.org/content/324/5923/81?casa_token=Cbi15b-au3cAAAAA:bZryjDfd1k-r3SoZaW2xRhzhY7qRkaY8SXnauk93tQkEYDtDcDNTLXHbiwQ0rc_acbAx_8nU9HGFID8) and [Citations](https://scholar.google.com/scholar?hl=en&as_sdt=5,41&sciodt=0,41&cites=11583184257062107912&scipsc=&q=&scisbd=1) by Schmidt, Michael, and Hod Lipson. 
 - "AI Feynman: A physics-inspired method for symbolic regression." [link](https://advances.sciencemag.org/content/6/16/eaay2631.abstract) Science Advances 6, no. 16 (2020): eaay2631. Udrescu, Silviu-Marian, and Max Tegmark. 
+- Predicting disruptive instabilities in controlled fusion plasmas through deep learning. Nature 2020. [link](https://www.nature.com/articles/s41586-019-1116-4)
 
-# Survey/Review papers
+## Survey/Review papers
 
 - "Integrating physics-based modeling with machine learning: A survey." [PDF](https://arxiv.org/pdf/2003.04919) 2020 by Willard, Jared, Xiaowei Jia, Shaoming Xu, Michael Steinbach, and Vipin Kumar
 - 
