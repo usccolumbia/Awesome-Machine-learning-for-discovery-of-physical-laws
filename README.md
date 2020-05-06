@@ -170,6 +170,8 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 - [fast symbolic regression](https://github.com/cfusting/fast-symbolic-regression)
 
 
+## Tutorials
+- [Physics-Informed Learning Machines](https://users.wpi.edu/~zzhang7/NENAD19_Karniadakis.pdf)
 
 
 ## Resources for students
