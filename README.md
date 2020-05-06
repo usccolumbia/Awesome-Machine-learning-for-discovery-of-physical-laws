@@ -157,8 +157,13 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 3D point clouds and 3D shapes in computer graphics, functional MRI signals on the brain structural connectivity network, the DNA of the gene regulatory network in genomics, drugs design in quantum chemistry, neutrino detection in high energy physics, and knowledge graph for common sense understanding of visual scenes. graphs and manifolds. Fundamental operations such as convolution, coarsening, multi-resolution, causality have been redefined through spectral and spatial approaches. 
 
 
+## software toolls
 
-
+- [AI Feynman symbolic regression package](https://github.com/SJ001/AI-Feynman)
+- [Eureka commercial](https://www.nutonian.com/products/eureqa/)
+- [Integration of Neural Network-Based Symbolic Regression in Deep Learning for Scientific Discovery](https://arxiv.org/abs/1912.04825)
+- [S. S. Sahoo, C. H. Lampert, and G. Martius, “Learning Equations for Extrapolation and Control,” jun 2018. [Online](https://arxiv.org/abs/1806.07259）
+- [fast symbolic regression](https://github.com/cfusting/fast-symbolic-regression)
 
 
 
