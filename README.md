@@ -155,7 +155,11 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 - Workshop I: From Passive to Active: Generative and Reinforcement Learning with Physics [link](http://www.ipam.ucla.edu/programs/workshops/workshop-i-from-passive-to-active-generative-and-reinforcement-learning-with-physics/)
 - Workshop IV: Deep Geometric Learning of Big Data and Applications. Non-Euclidean domain deep learning. [videos](http://www.ipam.ucla.edu/programs/workshops/workshop-iv-deep-geometric-learning-of-big-data-and-applications/?tab=schedule) [link](http://www.ipam.ucla.edu/programs/workshops/workshop-iv-deep-geometric-learning-of-big-data-and-applications/)
 3D point clouds and 3D shapes in computer graphics, functional MRI signals on the brain structural connectivity network, the DNA of the gene regulatory network in genomics, drugs design in quantum chemistry, neutrino detection in high energy physics, and knowledge graph for common sense understanding of visual scenes. graphs and manifolds. Fundamental operations such as convolution, coarsening, multi-resolution, causality have been redefined through spectral and spatial approaches. 
+- [ML4science workshop](https://www.ml4science.org/agenda-physics-in-ml)
 
+
+## Journals
+- [Machine Learning: Science and Technology](https://iopscience.iop.org/journal/2632-2153)
 
 ## software toolls
 
