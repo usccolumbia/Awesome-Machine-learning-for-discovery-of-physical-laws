@@ -30,6 +30,9 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 - [A machine-learning revolution for physics and materials science...](https://physicsworld.com/a/a-machine-learning-revolution/)
 - [Machine learning meets quantum physics](https://physicstoday.scitation.org/doi/10.1063/PT.3.4164)
 - [Machine learning versus physics-based modeling](https://www.kdnuggets.com/2019/05/physics-machine-learning-models.html)
+- [AI Copernicus ‘discovers’ that Earth orbits the Sun](https://www.nature.com/articles/d41586-019-03332-7)
+- [AI Teaches Itself Laws of Physics](https://www.unite.ai/ai-teaches-itself-laws-of-physics/)
+
 
 
 ## Exemplary research works
@@ -38,6 +41,7 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 - "AI Feynman: A physics-inspired method for symbolic regression." [link](https://advances.sciencemag.org/content/6/16/eaay2631.abstract) Science Advances 6, no. 16 (2020): eaay2631. Udrescu, Silviu-Marian, and Max Tegmark. 
 - Predicting disruptive instabilities in controlled fusion plasmas through deep learning. Nature 2020. [link](https://www.nature.com/articles/s41586-019-1116-4)
 - K. T. Schütt, M. Gastegger, A. Tkatchenko, K.-R. Müller, R. J. Maurer. Unifying machine learning and quantum chemistry with a deep neural network for molecular wavefunctions. Nature Communications, 2019; 10 (1) DOI: 10.1038/s41467-019-12875-2
+- [Discovering Physical Concepts with Neural Networks](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.010508)
 
 # Applications
 - Finding Strong Gravitational Lenses in the Kilo Degree Survey with Convolutional Neural Networks. [arxiv](https://arxiv.org/abs/1702.07675)
