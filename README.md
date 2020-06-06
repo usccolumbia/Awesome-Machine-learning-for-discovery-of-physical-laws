@@ -14,6 +14,7 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 ## Table of Contents
 
 ## Reading list to get inspired
+- [Artificial Intelligence and Augmented Intelligence for Automated Investigations for Scientific Discovery network](http://www.ai3sd.org/aireact2020/abstracts)
 - Nuclear Fusion and Artificial Intelligence: the Dream of Limitless Energy from [AI daily](https://aidaily.co.uk/articles/nuclear-fusion-and-artificial-intelligence-the-dream-of-limitless-energy)
 - Is Fusion Really Close To Reality? Yes, Thanks To Machine Learning. [Forbes](https://www.forbes.com/sites/jeffmcmahon/2020/04/27/is-fusion-really-closer-to-reality-yes-thanks-to-machine-learning/#613f2150652b)
 - Artificial Intelligence Accelerates Development of Limitless Fusion Energy. [article](https://scitechdaily.com/artificial-intelligence-accelerates-development-of-limitless-fusion-energy/)
