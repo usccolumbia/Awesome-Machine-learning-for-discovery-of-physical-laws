@@ -74,6 +74,7 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103812		
 
 ## ODE derivation, equation inference
+-[Physics Based Deep Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
 
 ## Bayesian networks
 
