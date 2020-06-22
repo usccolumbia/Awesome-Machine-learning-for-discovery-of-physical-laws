@@ -68,10 +68,23 @@ Please feel free to send me [pull requests](https://github.com/usccolumbia/Aweso
 ## Symbolic regression for equation search/discovery
 
 ## Causal relationship learning/discovery
+- Causal machine learning papers [link](https://github.com/logangraham/arXausality)
 - Causal Discovery with Attention-Based Convolutional Neural Networks” by Meike Nauta * , Doina Bucur and Christin Seifert 
 - https://aip.scitation.org/doi/full/10.1063/1.5025050
 - https://academic.oup.com/bioinformatics/article/32/6/875/1744279
 - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103812		
+
+- https://github.com/khurramjaved96/online-causal-models
+- https://github.com/capybaralet/REx_code_release
+- https://github.com/reiinakano/invariant-risk-minimization
+- https://github.com/IBM/IRM-games
+
+- https://github.com/logangraham/arXausality   arxiv causal ML algorithms papers
+- https://github.com/robertness/causalML
+- https://github.com/FenTechSolutions/CausalDiscoveryToolbox
+- https://github.com/microsoft/dowhy  causal inference
+
+
 
 ## ODE derivation, equation inference
 -[Physics Based Deep Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
